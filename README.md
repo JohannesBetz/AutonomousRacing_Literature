@@ -11,7 +11,7 @@ The collected paper in this repository were used to create the Paper "Autonomous
 
 ```
    @inproceedings{Betz2022,
-     
+
    }
 ```
 
