@@ -22,8 +22,22 @@ The excel file currently includes 234 publications. We structured the excel file
    3. Modelling
 
 # Excel Document
-This repository includes an excel document called "AutonomousRacing_Literature.xlsx". This file contains all the papers that are related to autonomous racing. We provided additional columns that gives interested readers the possiblity to search for specific areas. 
-The bibtex entry is named after the "Last Name Author" + "Year".
+This repository includes an excel document called "AutonomousRacing_Literature.xlsx". This file contains all the papers that are related to autonomous racing. We provided additional columns that gives interested readers the possibility to search for specific areas. You can filter order with the following information:
+* Year
+* Full Name of First Author
+* Section: High level section we ordered the paper to
+* Subsection: Subsection in the according high level section field
+* Topic: General High Level the topic is can be assigned to
+* Method: Main method that is used in the paper
+* Real car tested: Was the algorithms (code) developed in the paper tested on a real vehicle (Sports car, Racecar, Roborace, Indy Autonomous vehicle) - yes/no
+* Small car tested: Was the algorithms (code) developed in the paper tested on a small scale vehicle (1:43, F1TENTH, DonkeyCar, Deepracer, Formula Student) - yes/no
+* Small car tested: Was the algorithms (code) developed in the paper evaluated in a simulation Environment
+* Vehicle Type: Which type was the vehicle were the code was tested on
+* Racing Series: To which autonomous racing series belongs the paper
+* Paper Title
+* Link to Paper
+
+
 
 # LaTeX bibtex file
 This repository includes a bibtex file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (journal type, proceedings, year etc.).
