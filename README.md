@@ -22,6 +22,8 @@ The excel file currently includes 234 publications. We structured the excel file
    3. Modelling
 
 # Excel Document
+This repository includes an excel document called "AutonomousRacing_Literature.xlsx". This file contains all the papers that are related to autonomous racing. We provided additional columns that gives interested readers the possiblity to search for specific areas. 
+The bibtex entry is named after the "Last Name Author" + "Year".
 
 # LaTeX bibtex file
 This repository includes a bibtex file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (journal type, proceedings, year etc.).
