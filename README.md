@@ -38,7 +38,6 @@ This repository includes an excel document called "AutonomousRacing_Literature.x
 * Link to Paper
 
 
-
 # LaTeX bibtex file
 This repository includes a bibtex file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (journal type, proceedings, year etc.).
 The bibtex entry is named after the "Last Name Author" + "Year".
