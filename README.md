@@ -4,6 +4,17 @@ This repository contains an excel document and a bibtex file that includes all t
 
 Last Update: 02.11.2021
 
+# References
+The collected paper in this repository were used to create the Paper "Autonomous Vehicles on the Edge: A survey on autonomous racing". If you find the information in this repository we would be happy if you can cite the following paper.
+
+* J. Betz, H. Zheng, A. Liniger, U. Rosolia, [(PDF)](https://www.researchgate.net/)
+
+```
+   @inproceedings{Betz2022,
+     
+   }
+```
+
 # Structure
 The excel file currently includes 234 publications. We structured the excel file the following
 
