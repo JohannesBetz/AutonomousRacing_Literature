@@ -5,15 +5,9 @@ This repository contains an .xlsx (Microsoft Excel) document and a .bib (LaTex B
 **Last Update:** 03.02.2022
 
 # Reference
-The collected paper in this repository were used to create the Paper "Autonomous Vehicles on the Edge: A survey on autonomous racing". If you find the information in this repository we would be happy if you can cite the following paper.
+The collected research papers in this repository were used to create the Paper "Autonomous Vehicles on the Edge: A survey on autonomous racing". If you find the information in this repository we would be happy if you can cite the following paper.
 
-* J. Betz, H. Zheng, A. Liniger, U. Rosolia, [(PDF)](https://www.researchgate.net/)
 
-```
-   @inproceedings{Betz2022,
-
-   }
-```
 
 # Structure
 The excel file currently includes 235 publications. We structured the excel file mainly into 6 sections that cover both software and hardware developments:
@@ -54,9 +48,10 @@ This repository includes an .xlsx (Microsoft Excel) document called "AutonomousR
 * **Topic:** General high-level topic what the paper is covering
 * **Method:** Main method/algorithm type that is used in the paper
 * **Paper Title:** Official title of the paper
-* **Simulation tested:** Was the algorithms (code) developed in the paper tested and evaluated in a simulation environment
-* **Hardware tested:** Was the algorithms (code) developed in the paper tested on a real vehicle hardware (Small scale, Real Car) - yes/no
-* **Racing Series:** To which autonomous racing series belongs the paper (Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, Auto Rally, Formula Student)
+* **Simulation tested:** Was the algorithms (code) developed in the paper tested and evaluated in a simulation environment: yes/no
+* **Hardware tested:** Was the algorithms (code) developed in the paper tested on a real autonomous racing vehicle hardware (Small scale, Real Car): yes/no
+* **Hardware tested:** To which vehicle type does the hardware belong that was used to test the algorithms (Code) : Small-Scale/Real Car
+* **Racing Series:** To which autonomous racing series belongs the paper: Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, Auto Rally, Formula Student
 
 * **Link to Paper:**
 
