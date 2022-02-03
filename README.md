@@ -1,6 +1,6 @@
 # Autonomous Racing Literature
 
-This repository contains an .xlsx (Microsoft Excel) document and a .bib (LaTex Bibtex) file that includes all the literature, research papers and publications in the field of autonomous racing. Although the term of autonomous racing can be referred to different applications (e.g. drone racing) we are focusing in this literature overview only on research from the field of autonomous race cars. This list does not claim to be complete, we are happy to receive feedback from the community about missing papers. This list will be updated a few times a year to include new papers that were recently published.
+This repository contains an .csv and a .bib (LaTex Bibtex) file that includes all the literature, research papers and publications in the field of autonomous racing. Although the term of autonomous racing can be referred to different applications (e.g. drone racing) we are focusing in this literature overview only on research from the field of autonomous race cars. This list does not claim to be complete, we are happy to receive feedback from the community about missing papers. This list will be updated a few times a year to include new papers that were recently published.
 
 **Last Update:** 03.02.2022
 
@@ -8,9 +8,8 @@ This repository contains an .xlsx (Microsoft Excel) document and a .bib (LaTex B
 The collected research papers in this repository were used to create the Paper "Autonomous Vehicles on the Edge: A survey on autonomous racing". If you find the information in this repository we would be happy if you can cite the following paper.
 
 
-
 # Structure
-The excel file currently includes 235 publications. We structured the excel file mainly into 6 sections that cover both software and hardware developments:
+The excel file currently includes 235 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
 
 0. Introduction and Overview
 1. Perception
@@ -40,7 +39,7 @@ The excel file currently includes 235 publications. We structured the excel file
 6. Autonomous Racing Hardware
 
 # Excel Document
-This repository includes an .xlsx (Microsoft Excel) document called "AutonomousRacing_Literature.xlsx". This file contains all the papers that are related to autonomous vehicle racing. We provided additional columns that give interested readers the possibility to search for specific areas. You can filter and order this file with the following information:
+This repository includes an .csv file called "AutonomousRacing_Literature.csv". This file contains all the papers that are related to autonomous vehicle racing. We provided additional columns that give interested readers the possibility to search for specific areas. You can filter and order this file with the following information:
 * **Year:** Year the paper was published
 * **First Author:** Last name and first name of first author
 * **Section:** High-level section we created to structure the papers
