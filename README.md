@@ -52,8 +52,7 @@ This repository includes an .xlsx (Microsoft Excel) document called "AutonomousR
 * **Hardware tested:** Was the algorithms (code) developed in the paper tested on a real autonomous racing vehicle hardware (Small scale, Real Car): yes/no
 * **Hardware tested:** To which vehicle type does the hardware belong that was used to test the algorithms (Code) : Small-Scale/Real Car
 * **Racing Series:** To which autonomous racing series belongs the paper: Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, Auto Rally, Formula Student
-
-* **Link to Paper:**
+* **Link to Paper:** Official link to the website of the paper publisher
 
 
 # LaTeX bibtex file
