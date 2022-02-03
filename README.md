@@ -57,3 +57,9 @@ This repository includes an .csv file called "AutonomousRacing_Literature.csv". 
 # LaTeX bibtex file
 This repository includes a .bib (LaTex Bibtex) file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (Year, authors, journal type, proceedings, etc.).
 Each bibtex entry is named after the "Last Name Author" + "Year".
+
+# Contribution
+We are welcome interested researchers and developers in the field to contribute to this autonomous racing literature overview. People can integrate new papers in this last and/or even extend the list to more categories.
+As stated in the paper, the term of autonomous racing can be referred to different applications (e.g. drone racing) but we are focusing in this list only on research in the field of autonomous racing cars. These racecars need to have four wheels, can either have a combustion engine or electrical engine as a main power unit, can be real racecars (e.g. Formula 1 car) or small-scale vehicles (e.g. 1:10 scale). In addition, the soft- and hardware that is displayed in this list must have a clear connection to the field of racing. This means that the authors of these papers either used a specific hardware that is acting in a racing environment (e.g. racetrack, adversarial setup), they are using a simulation environment that displays a racecar within an racing environment (e.g. racing game for PC) or their research displays a solution for a racing problem (e.g. driving fast around the racetrack). Although some authors present results and algorithms for high speed autonomous driving on the freeway this work is not covered in this survey because neither the aspect of handling the vehicles at the limits nor the adversarial context is given here sufficiently. In addition, classic
+
+To contribute to this repository please create a Pull Request so we can review the changes you have made.
