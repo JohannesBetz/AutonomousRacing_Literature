@@ -53,7 +53,6 @@ This repository includes an .csv file called "AutonomousRacing_Literature.csv". 
 * **Racing Series:** To which autonomous racing series belongs the paper: Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, Auto Rally, Formula Student
 * **Link to Paper:** Official link to the website of the paper publisher
 
-
 # Literature .bib Document
 This repository includes a .bib (LaTex Bibtex) file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (Year, authors, journal type, proceedings, etc.).
 Each bibtex entry is named after the "Last Name Author" + "Year".
