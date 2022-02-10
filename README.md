@@ -2,7 +2,7 @@
 
 This repository contains an .csv and a .bib (LaTex Bibtex) file that includes all the literature, research papers and publications in the field of autonomous racing. Although the term of autonomous racing can be referred to different applications (e.g. drone racing) we are focusing in this literature overview only on research from the field of autonomous race cars. This list does not claim to be complete, we are happy to receive feedback from the community about missing papers. This list will be updated a few times a year to include new papers that were recently published.
 
-**Last Update:** 07.02.2022
+**Last Update:** 10.02.2022
 
 # Paper Reference
 The collected research papers in this repository were used to create the Paper "Autonomous Vehicles on the Edge: A survey on autonomous racing". If you find the information in this repository we would be happy if you can cite the following paper.
@@ -31,7 +31,7 @@ The excel file currently includes 235 publications. We structured the .csv file 
    1. Optimization
    2. Deep Learning
    3. Reinforcement Learning
-5. Additional Software Development
+5. Applied Studies
    1. Evaluation
    2. Complete Software Stack
    3. Modelling
