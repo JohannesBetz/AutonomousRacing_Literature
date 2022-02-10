@@ -1,5 +1,7 @@
 # Autonomous Racing Literature
 
+![Title Picture ESWeek 2021](docs/Title.png)
+
 This repository contains an .csv and a .bib (LaTex Bibtex) file that includes all the literature, research papers and publications in the field of autonomous racing. Although the term of autonomous racing can be referred to different applications (e.g. drone racing) we are focusing in this literature overview only on research from the field of autonomous race cars. This list does not claim to be complete, we are happy to receive feedback from the community about missing papers. This list will be updated a few times a year to include new papers that were recently published.
 
 **Last Update:** 10.02.2022
