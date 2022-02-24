@@ -7,7 +7,7 @@ This repository contains an .csv and a .bib (LaTex Bibtex) file that includes al
 **Last Update:** 17.02.2022
 
 # Paper Reference
-The collected research papers in this repository were used to create the Paper ["Autonomous Vehicles on the Edge: A survey on autonomous racing"](https://arxiv.org/abs/2202.07008). If you find the information in this repository we would be happy if you can cite the following paper.
+The collected research papers in this repository were used to create the paper ["Autonomous Vehicles on the Edge: A survey on autonomous racing"](https://arxiv.org/abs/2202.07008). If you find the information in this repository we would be happy if you cite it based on the following definition:
 
 ```
   @misc{2202.07008,
@@ -19,7 +19,7 @@ The collected research papers in this repository were used to create the Paper [
 ```
 
 # Literature Structure
-The excel file currently includes 235 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
+The excel file currently includes 246 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
 
 0. Introduction and Overview
 1. Perception
@@ -62,6 +62,7 @@ This repository includes an .csv file called "AutonomousRacing_Literature.csv". 
 * **Hardware tested:** To which vehicle type does the hardware belong that was used to test the algorithms (Code) : Small-Scale/Real Car
 * **Racing Series:** To which autonomous racing series belongs the paper: Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, Auto Rally, Formula Student
 * **Link to Paper:** Official link to the website of the paper publisher
+* **Link to Open Source Code:** If additional open-source code/software is available for the paper the link to the repository can be found here
 
 # Literature .bib Document
 This repository includes a .bib (LaTex Bibtex) file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (Year, authors, journal type, proceedings, etc.).
