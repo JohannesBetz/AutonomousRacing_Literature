@@ -27,7 +27,7 @@ doi = "10.1109/ojits.2022.3181510"
 ```
 
 # Literature Structure
-The excel file currently includes 247 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
+The excel file currently includes 271 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
 
 0. Introduction and Overview
 1. Perception
