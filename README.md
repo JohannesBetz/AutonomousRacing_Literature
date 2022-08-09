@@ -2,9 +2,9 @@
 
 ![Title Picture ESWeek 2021](docs/Title.png)
 
-This repository contains an .csv and a .bib (LaTex Bibtex) file that includes all the literature, research papers and publications in the field of autonomous racing. Although the term of autonomous racing can be referred to different applications (e.g. drone racing) we are focusing in this literature overview only on research from the field of autonomous race cars. This list does not claim to be complete, we are happy to receive feedback from the community about missing papers. This list will be updated a few times a year to include new papers that were recently published.
+This repository contains an .csv and a .bib (LaTeX Bibtex) file that includes all the literature, research papers and publications in the field of autonomous racing. Although the term of autonomous racing can be referred to different applications (e.g. drone racing) we are focusing in this literature overview only on research from the field of autonomous race cars. This list does not claim to be complete, we are happy to receive feedback from the community about missing papers. This list will be updated a few times a year to include new papers that were recently published.
 
-**Last Update:** 01.06.2022
+**Last Update:** 08.08.2022
 
 # Paper Reference
 The collected research papers in this repository were used to create the paper ["Autonomous Vehicles on the Edge: A Survey on Autonomous Vehicle Racing"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9790832). If you find the information in this repository useful we would be happy if you cite it based on the following definition:
@@ -27,7 +27,7 @@ doi = "10.1109/ojits.2022.3181510"
 ```
 
 # Literature Structure
-The excel file currently includes 271 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
+The excel file currently includes 272 publications. We structured the .csv file mainly into 7 sections that cover both software and hardware developments:
 
 0. Introduction and Overview
 1. Perception
@@ -65,16 +65,15 @@ This repository includes an .csv file called "AutonomousRacing_Literature.csv". 
 * **Topic:** General high-level topic what the paper is covering
 * **Method:** Main method/algorithm type that is used in the paper
 * **Paper Title:** Official title of the paper
-* **Simulation tested:** Was the algorithms (code) developed in the paper tested and evaluated in a simulation environment: yes/no
-* **Hardware tested:** Was the algorithms (code) developed in the paper tested on a real autonomous racing vehicle hardware (Small scale, Real Car): yes/no
-* **Hardware tested:** To which vehicle type does the hardware belong that was used to test the algorithms (Code) : Small-Scale/Real Car
-* **Racing Series:** To which autonomous racing series belongs the paper: Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, Auto Rally, Formula Student
+* **Simulation Tested:** Was the algorithm(s) (code) developed in the paper tested and evaluated in a simulation environment: Yes/No
+* **Hardware Tested:** Was the algorithm(s) (code) developed in the paper tested on a real autonomous racing vehicle hardware: Yes/No (Small Scale/Real Car)
+* **Racing Series:** To which autonomous racing series belongs the paper: Real Car, Roborace, Indy Autonomous vehicle, 1:43, F1TENTH, DonkeyCar, DeepRacer, AutoRally, Formula Student
 * **Link to Paper:** Official link to the website of the paper publisher
-* **Link to Open Source Code:** If additional open-source code/software is available for the paper the link to the repository can be found here
+* **Link to Open Source Code:** Link to the open-source code/software (if available additionally) described in the paper
 
 # Literature .bib Document
-This repository includes a .bib (LaTex Bibtex) file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (Year, authors, journal type, proceedings, etc.).
-Each bibtex entry is named after the "Last Name Author" + "Year".
+This repository includes a .bib (LaTeX Bibtex) file called "AutonomousRacing_Literature.bib". This file contains all the papers from the excel file with their corresponding bibtex information (Year, authors, journal type, proceedings, etc.).
+Each bibtex entry is named after the "Author's Last Name" + "Year".
 
 # Contribution
 We are welcome interested researchers and developers in the field to contribute to this autonomous racing literature overview. People can integrate new papers in this last and/or even extend the list to more categories.
